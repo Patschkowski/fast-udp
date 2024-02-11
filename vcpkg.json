@@ -1,0 +1,11 @@
+{
+  "name": "fast-udp",
+  "version-string": "latest",
+  "dependencies": [
+    {
+      "name": "ms-gsl",
+      "version>=": "4.0.0"
+    }
+  ],
+  "builtin-baseline": "c6d6efed3e9b4242765bfe1b5c5befffd85f7b92"
+}
